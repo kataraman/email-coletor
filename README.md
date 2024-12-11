@@ -1,4 +1,4 @@
-## Email Coletor
+## E-mail Coletor
 
 Ferramenta para rastrear e coletar e-mails a partir de um endereço de site.
 
