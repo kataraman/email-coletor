@@ -2,7 +2,7 @@
 
 Ferramenta para rastrear e coletar e-mails a partir de um endereço de site.
 
-## Dependencias
+## Dependências
 
 - python
 - python-bs4
