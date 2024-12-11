@@ -6,7 +6,9 @@ from urllib.parse import urlparse, urljoin
 import time
 import urllib3
 
-# Suprimindo o aviso InsecureRequestWarning
+# Software de uso livre, pelo fim da propriedade intelectual!
+
+# Removendo o aviso InsecureRequestWarning
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def extract_emails_from_url(url):
